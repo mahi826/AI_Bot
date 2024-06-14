@@ -8,7 +8,7 @@ from langchain.vectorstores import FAISS
 import os
 
 # Set OpenAI API Key
-os.environ["OPENAI_API_KEY"] = 'sk-proj-PZpvaGFYWawlD2XEUxjET3BlbkFJPGllPygNyNox23rDon0e'
+os.environ["OPENAI_API_KEY"] = ''
 
 # Streamlit app interface
 st.title("PDF QA Chatbot")
